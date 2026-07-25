@@ -108,7 +108,7 @@ Key columns used in this analysis:
 
 ```
 ├── pandas project2.py     # Main pandas/NumPy analysis script
-├── zepto_v2.csv             # Raw dataset (not included — add your own copy)
+├── zepto_v2.csv             # Raw dataset 
 └── README.md                # Project documentation
 ```
 
@@ -116,8 +116,8 @@ Key columns used in this analysis:
 
 ## ✍️ Author
 
-**[Your Name]**
-[GitHub](https://github.com/yourusername) · [LinkedIn](https://linkedin.com/in/yourusername)
+**Jay Vikram**
+[GitHub](https://github.com/Jayvikrammm) · [LinkedIn](https://linkedin.com/in/jayvikramm)
 
 ---
 
